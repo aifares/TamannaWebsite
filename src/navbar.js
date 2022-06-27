@@ -1,6 +1,6 @@
 import React from "react";
 import "./NavBar.css";
-import ReactNavbar from "react-responsive-animate-navbar";
+
 
 export default function NavBar() {
   return (
