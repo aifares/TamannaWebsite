@@ -37,14 +37,7 @@ function App() {
             </p>
           </div>
           <div className="card__image">
-            <ReactRoundedImage
-              image={inna_grad}
-              roundedColor="#0A2472"
-              imageWidth="400"
-              imageHeight="400"
-              roundedSize="12"
-              borderRadius="70"
-            />
+            <img className="photo" src={inna_grad}></img>
           </div>
         </article>
       </div>
